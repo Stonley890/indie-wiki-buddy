@@ -9917,6 +9917,25 @@
     ]
   },
   {
+    "id": "en-wingsoffire",
+    "origins_label": "Wings of Fire Wiki",
+    "origins": [
+      {
+        "origin": "Wings of Fire Wiki",
+        "origin_base_url": "wingsoffire.fandom.com",
+        "origin_content_path": "/wiki/",
+        "origin_main_page": "Wings_of_Fire_Wiki"
+      }
+    ],
+    "destination": "Wings of Fire Wiki",
+    "destination_base_url": "wingsoffire.wiki",
+    "destination_platform": "mediawiki",
+    "destination_icon": "wingsoffirewiki.png",
+    "destination_main_page": "Home",
+    "destination_search_path": "/index.php",
+    "destination_content_path": "/wiki/",
+  },
+  {
     "id": "en-witchfire",
     "origins_label": "Witchfire Fandom Wiki",
     "origins": [
